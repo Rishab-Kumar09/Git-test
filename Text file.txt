@@ -1,2 +1,2 @@
-This is my first line of Git. 
+This is my first line of Git. CHANGED BY FEATURE
 The second line created in the 'feature' branch.
